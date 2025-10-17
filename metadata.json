@@ -1,0 +1,5 @@
+{
+  "name": "Hubexus Learning Management System",
+  "description": "A basic Learning Management System (LMS) built for the Hubexus Hackathon. This application allows for user registration, login, and course management for both students and teachers, fulfilling the Bronze Level requirements.",
+  "requestFramePermissions": []
+}
